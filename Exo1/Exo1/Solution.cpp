@@ -6,7 +6,7 @@ bool IsPositif(int num) {
 }
 
 
-IsMod(int num) {
+bool IsMod(int num) {
 	return(num % 3 == 0);
 }
 */
